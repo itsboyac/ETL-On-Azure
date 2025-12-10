@@ -1,0 +1,52 @@
+[
+  {
+    "relative_git_file_url": "AdventureWorks_Calendar.csv",
+    "folder_name": "bronze",
+    "file_name": "Calendar.csv"
+  },
+  {
+    "relative_git_file_url": "AdventureWorks_Customers.csv",
+    "folder_name": "bronze",
+    "file_name": "Customers.csv"
+  },
+  {
+    "relative_git_file_url": "AdventureWorks_Product_Categories.csv",
+    "folder_name": "bronze",
+    "file_name": "Product_Categories.csv"
+  },
+  {
+    "relative_git_file_url": "AdventureWorks_Product_Subcategories.csv",
+    "folder_name": "bronze",
+    "file_name": "Product_Subcategories.csv"
+  },
+  {
+    "relative_git_file_url": "AdventureWorks_Products.csv",
+    "folder_name": "bronze",
+    "file_name": "Products.csv"
+  },
+  {
+    "relative_git_file_url": "AdventureWorks_Returns.csv",
+    "folder_name": "bronze",
+    "file_name": "Returns.csv"
+  },
+  {
+    "relative_git_file_url": "AdventureWorks_Sales_2015.csv",
+    "folder_name": "bronze",
+    "file_name": "Sales_2015.csv"
+  },
+  {
+    "relative_git_file_url": "AdventureWorks_Sales_2016.csv",
+    "folder_name": "bronze",
+    "file_name": "Sales_2016.csv"
+  },
+  {
+    "relative_git_file_url": "AdventureWorks_Sales_2017.csv",
+    "folder_name": "bronze",
+    "file_name": "Sales_2017.csv"
+  },
+  {
+    "relative_git_file_url": "AdventureWorks_Territories.csv",
+    "folder_name": "bronze",
+    "file_name": "Territories.csv"
+  }
+]
