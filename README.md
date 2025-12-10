@@ -20,3 +20,5 @@ This is a data engineering ETL project on Azure. We will utilize 5 services on A
 A Github repository containing the raw .csv files.
 Here you can refer to step-by-step guide: https://medium.com/@ashima.adya/build-a-complete-azure-data-pipeline-using-adf-databricks-synapse-power-bi-step-by-step-guide-43c745511682
 
+## Power BI
+![alt text](image.png)
