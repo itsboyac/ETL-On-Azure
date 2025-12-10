@@ -21,4 +21,5 @@ A Github repository containing the raw .csv files.
 Here you can refer to step-by-step guide: https://medium.com/@ashima.adya/build-a-complete-azure-data-pipeline-using-adf-databricks-synapse-power-bi-step-by-step-guide-43c745511682
 
 ## Power BI
+From connecting to Azure Synapse Analytics, I built a dashboard using the tables created from Databricks notebook and retrieve from tables created in Synapse. Result looks like this:
 ![alt text](image.png)
